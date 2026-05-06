@@ -1,0 +1,6 @@
+langchain==0.1.0
+langchain-community
+langchain-ollama
+streamlit
+pandas
+python-dotenv

@@ -1,0 +1,13 @@
+# Virtual Environment
+text2sql_env/
+__pycache__/
+
+# Local Database (Don't push your data!)
+*.db
+
+# Sensitive Keys
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
